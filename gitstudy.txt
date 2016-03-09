@@ -1,4 +1,6 @@
 <?php> 
 
 echo 'Hello Hanis';
+echo 'Hai hanis';
+echo 'salam hanis';
 <?>
